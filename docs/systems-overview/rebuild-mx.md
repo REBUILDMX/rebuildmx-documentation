@@ -3,7 +3,7 @@ title: REBUILD MX
 slug: /systems-overview/rebuild-mx
 ---
 
-REBUILD MX framework for an integrated system design that takes into account every possible parameter to sustain human life and the ecology while creating economic value. Essentially, it is framework consisting of systems that are able to perform optimally given its factors and constraints.
+REBUILD MX is framework for an integrated system design that takes into account every possible parameter to sustain human life and the ecology while creating economic value. Essentially, it is framework consisting of systems that are able to perform optimally given its factors and constraints.
 
 A success of a system within REBUILD Mahayana collection of systems, is measured in:
 1. Caloric and energy output

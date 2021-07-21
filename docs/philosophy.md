@@ -5,7 +5,7 @@ sidebar_position: 1
 slug: /philosophy
 ---
 
-The objective of REBUILD Mahayana is to create a framework and a foundation for society to sustain its livelihoods.
+The objective of REBUILD MX is to create a framework and a foundation for society to sustain its livelihoods.
 
 The framework will follow the following principles:
 1. **Universality**: The framework considers fundamental needs for humans. This includes nutritious food, water, and shelter. 

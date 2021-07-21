@@ -12,7 +12,7 @@ We're looking for:
 
 Send your CV to: pr@mahayanapermaculture.com
 
-You're all welcome to contribute to our [GitHub](https://github.com/REBUILDMahayana) 
+You're all welcome to contribute to our [GitHub](https://github.com/REBUILDMX) 
 
 
 ### Addresses ₿
