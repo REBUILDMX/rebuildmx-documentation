@@ -19,16 +19,7 @@ You're all welcome to contribute to our [GitHub](https://github.com/REBUILDMX)
 **BTC**: 
 3QqdFhvcNaRcHWYvSF7t2wvQaRkS6dPLCi
 
-**Ethereum**: 
-0x7957AF1c6E1e0ED03633e6730a1f4F93d23bCFc9
-
-**Fantom Opera**:
-0x7957AF1c6E1e0ED03633e6730a1f4F93d23bCFc9
-
-**Binance Smart Chain**: 
-0x7957AF1c6E1e0ED03633e6730a1f4F93d23bCFc9
-
-**Polygon/Matic**: 
+**EVM Based**: 
 0x7957AF1c6E1e0ED03633e6730a1f4F93d23bCFc9
 
 **Monero**: 
