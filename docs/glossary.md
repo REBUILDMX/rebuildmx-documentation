@@ -6,4 +6,6 @@ slug: /glossary
 ---
 
 ### Agroforestry ###
-A system that incorporates multiple species that utilizes both spatial and temporal sequence to produce yields.
+A system of land use that incorporates multiple species that utilizes both spatial and temporal sequence to produce yields.
+
+### Nitrogen Fixing Trees ###
